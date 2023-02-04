@@ -6,7 +6,7 @@
  - Integrating and automation tools(Jenkins,Terraform,Ansible)
  - AWS Services
 ### 👯 I’m looking to collaborate on ...
-   Open Source Projects for DevOps
+   Open Source Projects for integrating DevOps tools
 ### 📫 How to reach me: ...
  - Linkedin: https://www.linkedin.com/in/parameswaran-r1/
  - Gmail: paramesraja471@gmail.com
